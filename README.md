@@ -39,7 +39,7 @@ Agradecemos a Daniel López Juárez, quien desarrolló este curso, por su valios
 
 
 
-### Módulo 1: [Introducción a Google Colaboratory]()
+### Módulo 1: [Introducción a Google Colaboratory](01.Introduccion.ipynb)
 
 Para comenzar, vaya a https://colab.research.google.com/.
 
@@ -47,12 +47,12 @@ En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de no
 
 Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
 
-`https://github.com/cabana-online/Tutorial_Introduccion`
+`https://github.com/cabana-online/Microbiomas_en_R`
 
 
 Después de una breve búsqueda verá el notebook:
 
-`01.Intro_a_colab.ipynb`
+`01.Introduccion.ipynb`
 
 Seleccione y verá el notebook abierto.
 
@@ -60,7 +60,7 @@ Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es li
 
 **Nota:** existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.
 
-### Módulo 2: [Análisis de metagenomas en R]()
+### Módulo 2: [Análisis de microbiomas en R](02.Analisis _de _Microbiomas _en _R.ipynb)
 
 Para comenzar, vaya a https://colab.research.google.com/.
 
@@ -68,12 +68,12 @@ En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de no
 
 Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
 
-`https://github.com/cabana-online/Tutorial_Introduccion`
+`https://github.com/cabana-online/Microbiomas_en_R`
 
 
 Después de una breve búsqueda verá el notebook:
 
-`01.Intro_a_colab.ipynb`
+`02.Analisis _de _Microbiomas _en _R.ipynb`
 
 Seleccione y verá el notebook abierto.
 
