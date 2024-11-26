@@ -13,8 +13,6 @@ Este curso tiene como objetivo proporcionar una comprensión integral del análi
 
 ## Objetivos de aprendizaje
 
-## Objetivos de aprendizaje
-
 Al finalizar este curso, los participantes serán capaces de:
 
 - Cargar y preparar datos de microbiomas generados por Quiime2 en R utilizando la librería *microeco*.
